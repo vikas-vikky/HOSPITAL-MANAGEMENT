@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\HospitalDatabase",
+    "\\HospitalDatabase\\bin",
+    "\\HospitalDatabase\\obj",
+    "\\packages",
+    "\\packages\\System.Configuration.ConfigurationManager.6.0.0",
+    "\\packages\\System.Security.Permissions.6.0.0",
+    "\\packages\\System.Security.Principal.Windows.5.0.0"
+  ],
+  "SelectedNode": "\\HospitalDatabase\\Form4.Designer.cs",
+  "PreviewInSolutionExplorer": false
+}
